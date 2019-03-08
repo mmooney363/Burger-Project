@@ -8,7 +8,6 @@
   },
   "repository": {
     "type": "git"
-    
   },
   "keywords": [
     "burgers",
@@ -16,7 +15,7 @@
     "burgerfi"
   ],
   "author": "Mike Mooney",
-  "license": "ISC" ,
+  "license": "ISC",
   "homepage": "https://github.com/mmooney363",
   "dependencies": {
     "body-parser": "^1.17.1",
